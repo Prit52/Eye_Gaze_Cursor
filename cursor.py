@@ -8,7 +8,6 @@ cam = cv2.VideoCapture(0)
 drag = 18
 t = 0
 
-
 while True:
     # We get a new frame from the webcam
     _, frame = cam.read()
