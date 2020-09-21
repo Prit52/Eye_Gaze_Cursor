@@ -1,6 +1,6 @@
 import cv2
 import dlib
-from math import hypot
+from math import hypot 
 
 cap = cv2.VideoCapture(0)
 detector = dlib.get_frontal_face_detector()
