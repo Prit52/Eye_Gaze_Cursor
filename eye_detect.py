@@ -1,5 +1,5 @@
 import cv2
-import dlib
+import dlib 
 
 cap = cv2.VideoCapture(0)
 
