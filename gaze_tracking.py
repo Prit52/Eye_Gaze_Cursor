@@ -5,7 +5,6 @@ import dlib
 from eye import Eye
 from calibration import Calibration
 
-
 class GazeTracking(object):
     """
     This class tracks the user's gaze.
